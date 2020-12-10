@@ -25,3 +25,7 @@
 
 ## Game Over
 ![Game_Over](Images/game-over.png)
+
+# MADE BY 
+- Amar Sinha 
+- Chirag Aggarwal
